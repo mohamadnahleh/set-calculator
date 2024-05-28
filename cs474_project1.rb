@@ -1,6 +1,4 @@
 # Mohamad Nahleh
-# CS 474 - Program 1
-# 02-18-2024
 
 # Definition of class Node
 # representing a node in a binary search tree.
